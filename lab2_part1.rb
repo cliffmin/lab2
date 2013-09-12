@@ -1,3 +1,4 @@
+#github URL: https://github.com/cliffmin/lab2
 #Part1: Hello World
 class HelloWorldClass
   def initialize(name)
